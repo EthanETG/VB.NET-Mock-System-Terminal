@@ -15,4 +15,4 @@ This is a very simple console app made in Visual Studio using the VB.NET coding 
 **Sudo Commands**
 
 1. sysusers | Provides you with a list of mock names in your system/workspace.
-2. localusers | Provides you wih a list of mock names in your local computer.
+2. localusers | Provides you with a list of mock names in your local computer.
